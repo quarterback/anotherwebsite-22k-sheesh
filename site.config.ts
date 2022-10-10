@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Ron Bronson',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'consequencedesign.org',
   author: 'Ron Bronson',
 
   // open graph metadata (optional)
-  description: 'Personal Website',
+  description: 'A compendium of my latest writing &',
 
   // social usernames (optional)
   twitter: 'ronbronson',
